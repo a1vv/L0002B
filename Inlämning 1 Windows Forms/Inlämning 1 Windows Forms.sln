@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inlämning 1 Windows Forms", "Inlämning 1 Windows Forms\Inlämning 1 Windows Forms.csproj", "{19170203-C164-490A-AB64-ACC686D40E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19170203-C164-490A-AB64-ACC686D40E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19170203-C164-490A-AB64-ACC686D40E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19170203-C164-490A-AB64-ACC686D40E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19170203-C164-490A-AB64-ACC686D40E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E959D756-B75B-4F4B-9299-F6A8B5F4B8AB}
+	EndGlobalSection
+EndGlobal
