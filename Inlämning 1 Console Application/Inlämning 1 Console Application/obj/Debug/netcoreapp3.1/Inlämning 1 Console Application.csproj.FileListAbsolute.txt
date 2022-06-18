@@ -1,0 +1,13 @@
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\bin\Debug\netcoreapp3.1\Inlämning 1 Console Application.exe
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\bin\Debug\netcoreapp3.1\Inlämning 1 Console Application.deps.json
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\bin\Debug\netcoreapp3.1\Inlämning 1 Console Application.runtimeconfig.json
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\bin\Debug\netcoreapp3.1\Inlämning 1 Console Application.runtimeconfig.dev.json
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\bin\Debug\netcoreapp3.1\Inlämning 1 Console Application.dll
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\bin\Debug\netcoreapp3.1\Inlämning 1 Console Application.pdb
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\obj\Debug\netcoreapp3.1\Inlämning 1 Console Application.csprojAssemblyReference.cache
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\obj\Debug\netcoreapp3.1\Inlämning 1 Console Application.AssemblyInfoInputs.cache
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\obj\Debug\netcoreapp3.1\Inlämning 1 Console Application.AssemblyInfo.cs
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\obj\Debug\netcoreapp3.1\Inlämning 1 Console Application.csproj.CoreCompileInputs.cache
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\obj\Debug\netcoreapp3.1\Inlämning 1 Console Application.dll
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\obj\Debug\netcoreapp3.1\Inlämning 1 Console Application.pdb
+C:\Users\simalv-2\source\repos\Inlämning 1 Console Application\Inlämning 1 Console Application\obj\Debug\netcoreapp3.1\Inlämning 1 Console Application.genruntimeconfig.cache
