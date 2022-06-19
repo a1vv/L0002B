@@ -14,10 +14,10 @@ namespace Inlämningsuppgift_2_Console_Application
             persons = new List<Person>();
 
             // populate list with fake people 
-            persons.Add(new Person("Simon", "0005132702", "Lund", 90));
-            persons.Add(new Person("Pelle Jansson", "0105131980", "Ystad", 105));
-            persons.Add(new Person("Anders Manör", "8005127755", "Stockanäs", 62));
-            persons.Add(new Person("Karl Bertil Johnson", "6704308844", "Sankt Petersburg", 340));
+            //persons.Add(new Person("Simon", "0005132702", "Lund", 90));
+            //persons.Add(new Person("Pelle Jansson", "0105131980", "Ystad", 105));
+            //persons.Add(new Person("Anders Manör", "8005127755", "Stockanäs", 62));
+            //persons.Add(new Person("Karl Bertil Johnson", "6704308844", "Sankt Petersburg", 340));
 
             // main application loop
             while (true)
@@ -133,9 +133,12 @@ namespace Inlämningsuppgift_2_Console_Application
             {
                 if(person.Tier() < prevTier)
                 {
-                    int countInTier = ppt[4 - prevTier];
-                    WriteAndPrint($"{countInTier} säljare har nått nivå {prevTier}.\n");
-                    prevTier -= 1;
+                    while(person.Tier() < prevTier)
+                    {
+                        int countInTier = ppt[4 - prevTier];
+                        WriteAndPrint($"{countInTier} säljare har nått nivå {prevTier}.\n");
+                        prevTier -= 1;
+                    }
                 }
                 WritePersonLine(person);
                 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simalv-2\\source\\repos\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application.csproj": {}
+    "C:\\Users\\simalv-2\\source\\repos\\Inlämning 2 Console Application\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simalv-2\\source\\repos\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application.csproj": {
+    "C:\\Users\\simalv-2\\source\\repos\\Inlämning 2 Console Application\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simalv-2\\source\\repos\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application.csproj",
+        "projectUniqueName": "C:\\Users\\simalv-2\\source\\repos\\Inlämning 2 Console Application\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application.csproj",
         "projectName": "Inlämningsuppgift 2 Console Application",
-        "projectPath": "C:\\Users\\simalv-2\\source\\repos\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application.csproj",
+        "projectPath": "C:\\Users\\simalv-2\\source\\repos\\Inlämning 2 Console Application\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application.csproj",
         "packagesPath": "C:\\Users\\simalv-2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simalv-2\\source\\repos\\Inlämningsuppgift 2 Console Application\\Inlämningsuppgift 2 Console Application\\obj\\",
+        "outputPath": "C:\\Users\\simalv-2\\source\\repos\\Inlämning 2 Console Application\\Inlämningsuppgift 2 Console Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

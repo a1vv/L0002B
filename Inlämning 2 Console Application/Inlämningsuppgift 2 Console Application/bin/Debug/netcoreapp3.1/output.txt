@@ -2,12 +2,12 @@
 
 0 säljare har nått nivå 4.
 
-             Anders Manör	  8005127755	           Stockanäs	        62
-2 säljare har nått nivå 3.
+0 säljare har nått nivå 3.
 
-                    Simon	  0005132702	                Lund	        90
-            Pelle Jansson	  0105131980	               Ystad	       105
-      Karl Bertil Johnson	  6704308844	    Sankt Petersburg	       340
-                        k	  0005131792	                  jk	      2345
-2 säljare har nått nivå 2.
+                        j	  5003058970	                   a	        77
+1 säljare har nått nivå 2.
+
+                         	  5003058970	                   a	        44
+                        k	  5003058970	                   j	        33
+2 säljare har nått nivå 1.
 
