@@ -1,0 +1,13 @@
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\bin\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.exe
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\bin\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.deps.json
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\bin\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.runtimeconfig.json
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\bin\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.runtimeconfig.dev.json
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\bin\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.dll
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\bin\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.pdb
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\obj\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.csprojAssemblyReference.cache
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\obj\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.AssemblyInfoInputs.cache
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\obj\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.AssemblyInfo.cs
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\obj\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.csproj.CoreCompileInputs.cache
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\obj\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.dll
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\obj\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.pdb
+C:\Users\simalv-2\source\repos\Inlämningsuppgift 2 Console Application\Inlämningsuppgift 2 Console Application\obj\Debug\netcoreapp3.1\Inlämningsuppgift 2 Console Application.genruntimeconfig.cache
