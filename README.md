@@ -5,4 +5,4 @@ Introduktion till programmering och C# på Luleå Tekniska Universitet
 
 - [x] Uppgift 1 - Beräkna växel
 - [x] Uppgift 2 - Bonusssystem
-- [ ] Uppgift 3 - 
+- [x] Uppgift 3 - 
